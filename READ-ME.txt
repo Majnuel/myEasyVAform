@@ -1,0 +1,3 @@
+to boot up:
+
+php -S localhost:8080

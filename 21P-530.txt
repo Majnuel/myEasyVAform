@@ -1,0 +1,628 @@
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].CurrentMailingAddress_City[0]
+FieldNameAlt: 5. Current Mailing Address. City. 18 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 18
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].ClaimantsLastName[0]
+FieldNameAlt: 4. Claimant's Last Name. 18 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 18
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].VAFileNumber[0]
+FieldNameAlt: 3. V. A. File Number. C or C. S. S. Enter nine digit file number.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 9
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].VeteransSocialSecurityNumber_SecondTwoNumbers[0]
+FieldNameAlt: 2. Veteran's Social Security Number. Enter Middle Two Digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].VeteransSocialSecurityNumber_FirstThreeNumbers[0]
+FieldNameAlt: 2. Veteran's Social Security Number. Enter First Three Digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].VeteransLastName[0]
+FieldNameAlt: 1. Last Name of Deceased Veteran. 18 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 18
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PLACE_OF_BIRTH[0]
+FieldNameAlt: 9B. PLACE OF BIRTH.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PLACE_OF_DEATH[0]
+FieldNameAlt: 10B. PLACE OF DEATH.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PLACE[0]
+FieldNameAlt: 11. A. ENTERED SERVICE. PLACE.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PLACE[1]
+FieldNameAlt: 11. A. ENTERED SERVICE. PLACE.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PLACE[2]
+FieldNameAlt: 11. A. ENTERED SERVICE. PLACE.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].SERVICE_NUMBER[0]
+FieldNameAlt: 11B. SERVICE NUMBER.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].SERVICE_NUMBER[1]
+FieldNameAlt: 11B. SERVICE NUMBER.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].SERVICE_NUMBER[2]
+FieldNameAlt: 11B. SERVICE NUMBER.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PLACE_SEPARATED[0]
+FieldNameAlt: 11C. SEPARATED FROM SERVICE. PLACE.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PLACE_SEPARATED[1]
+FieldNameAlt: 11C. SEPARATED FROM SERVICE. PLACE.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PLACE_SEPARATED[2]
+FieldNameAlt: 11C. SEPARATED FROM SERVICE. PLACE.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].RATING[0]
+FieldNameAlt: 11D. GRADE, RANK OR RATING, ORGANIZATION AND BRANCH OF SERVICE.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].RATING[1]
+FieldNameAlt: 11D. GRADE, RANK OR RATING, ORGANIZATION AND BRANCH OF SERVICE.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].RATING[2]
+FieldNameAlt: 11D. GRADE, RANK OR RATING, ORGANIZATION AND BRANCH OF SERVICE.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].OTHER_NAME[0]
+FieldNameAlt: 12. IF VETERAN SERVED UNDER NAME OTHER THAN THAT SHOWN IN ITEM 1, GIVE FULL NAME AND SERVICE RENDERED UNDER THAT NAME.
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_OF_BIRTH[0]
+FieldNameAlt: PART 2 - INFORMATION REGARDING VETERAN. 9. A. DATE OF BIRTH. Enter 2 digit month, 2 digit day and 4 digit year.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_OF_DEATH[0]
+FieldNameAlt: 10. A. DATE OF DEATH. Enter 2 digit month, 2 digit day and 4 digit year.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_ENTERED_SERVICE[0]
+FieldNameAlt: SERVICE INFORMATION (The following information should be furnished for the periods of the VETERAN'S ACTIVE SERVICE). 11. A. ENTERED SERVICE. DATE. Enter 2 digit month, 2 digit day and 4 digit year. LINE 1 OF 3.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_SEPARATED_SERVICE[0]
+FieldNameAlt: 11C. SEPARATED FROM SERVICE. DATE. Enter 2 digit month, 2 digit day and 4 digit year.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_SEPARATED_SERVICE[1]
+FieldNameAlt: 11C. SEPARATED FROM SERVICE. DATE. Enter 2 digit month, 2 digit day and 4 digit year.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_SEPARATED_SERVICE[2]
+FieldNameAlt: 11C. SEPARATED FROM SERVICE. DATE. Enter 2 digit month, 2 digit day and 4 digit year.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_ENTERED_SERVICE[1]
+FieldNameAlt: 11. A. ENTERED SERVICE. DATE. Enter 2 digit month, 2 digit day and 4 digit year. LINE 2 OF 3.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_ENTERED_SERVICE[2]
+FieldNameAlt: 11. A. ENTERED SERVICE. DATE. Enter 2 digit month, 2 digit day and 4 digit year. LINE 3 OF 3.
+FieldFlags: 8388608
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].DATE_OF_BURIAL[0]
+FieldNameAlt: 10C. DATE OF BURIAL. Enter 2 digit month, 2 digit day and 4 digit year.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: form1[0].#subform[36].CheckBox1[0]
+FieldNameAlt: 8. RELATIONSHIP OF CLAIMANT TO DECEASED VETERAN (Check one). SPOUSE.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[36].CheckBox2[0]
+FieldNameAlt: 8. CHILD.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[36].CheckBox4[0]
+FieldNameAlt: 8. EXECUTOR / ADMINISTRATOR OF ESTATE OR PERSON ACTING FOR THE ESTATE.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[36].CheckBox3[0]
+FieldNameAlt: 8. PARENT.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].OTHER_SPECIFY[0]
+FieldNameAlt: 8. SPECIFY OTHER.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: form1[0].#subform[36].CheckBox5[0]
+FieldNameAlt: 8. OTHER (Specify).
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].VeteransFirstName[0]
+FieldNameAlt: IMPORTANT - Read instructions carefully before completing form. YOUR &#13;COMPLIANCE WITH ALL INSTRUCTIONS WILL AVOID DELAY. Type or print all&#13;information. NOTE: You can either complete the form online or by hand. Please print information &#13;using blue or black ink, neatly, and legibly to help process the form. Part 1 - Personal Information. 1. First Name of Deceased Veteran. 12 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].VeteransMiddleInitial1[0]
+FieldNameAlt: 1. Middle Initial of Deceased Veteran. 1 character available.
+FieldFlags: 25165824
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].ClaimantsFirstName[0]
+FieldNameAlt: CLAIMANT'S PERSONAL INFORMATION. 4. Claimant's First Name. 12 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].ClaimantsMiddleInitial1[0]
+FieldNameAlt: 4. Claimant's Middle Initial. 1 character available.
+FieldFlags: 25165824
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].VeteransSocialSecurityNumber_LastFourNumbers[0]
+FieldNameAlt: 2. Veteran's Social Security Number. Enter Last Four Digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].CurrentMailingAddress_NumberAndStreet[0]
+FieldNameAlt: 5. Current Mailing Address. Number and Street. 30 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 30
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].CurrentMailingAddress_ApartmentOrUnitNumber[0]
+FieldNameAlt: 5. Current Mailing Address. Apartment or Unit Number. 5 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].CurrentMailingAddress_StateOrProvince[0]
+FieldNameAlt: 5. Current Mailing Address. State or Province. 2 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].CurrentMailingAddress_Country[0]
+FieldNameAlt: 5. Current Mailing Address. Country. 2 characters available.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].CurrentMailingAddress_ZIPOrPostalCode_FirstFiveNumbers[0]
+FieldNameAlt: 5. Current Mailing Address. ZIP or Postal Code. First 5 digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].CurrentMailingAddress_ZIPOrPostalCode_LastFourNumbers[0]
+FieldNameAlt: 5. Current Mailing Address. ZIP or Postal Code. Last 4 digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PreferredE_MailAddress[0]
+FieldNameAlt: 7. PREFERRED E-MAIL ADDRESS. 
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PreferredTelephoneNumber_FirstThreeNumbers[0]
+FieldNameAlt: 6. PREFERRED TELEPHONE NUMBER (Include Area Code). Enter middle three digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PreferredTelephoneNumber_LastFourNumbers[0]
+FieldNameAlt: 6. PREFERRED TELEPHONE NUMBER (Include Area Code). Enter last four digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: form1[0].#subform[36].PreferredTelephoneNumber_AreaCode[0]
+FieldNameAlt: 6. PREFERRED TELEPHONE NUMBER (Include Area Code). Enter three digits of Area Code.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].COST_OF_BURIAL[0]
+FieldNameAlt: PART 5 - CLAIM  FOR TRANSPORTATION REIMBURSEMENT. 19. EXPENSES INCURED FOR THE TRANSPORTATION OF THE VETERAN'S REMAINS FROM THE PLACE OF DEATH TO THE FINAL RESTING PLACE (Attach itemized receipts).
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].CLAIMANT_SIGNATURE[0]
+FieldNameAlt: PART 6 - CERTIFICATION AND SIGNATURE. I CERTIFY THAT the foregoing statements made in connection with this application on account of the named veteran are true and correct to the best of my knowledge and belief. 20. A. SIGNATURE OF CLAIMANT (Sign in ink). (If signed using an &quot;X&quot;, complete Items 22. A. thru 23B). (If signing for firm, corporation, or State agency, complete Items 20B thru 21). This signature field can not be signed with a digital signature and the signee's name can not be typewritten into this space. This is a protected field. Please print the document and sign in ink.
+FieldFlags: 8388609
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].OFFICIAL_POSITION[0]
+FieldNameAlt: 20B. OFFICIAL POSITION OF PERSON SIGNING ON BEHALF OF FIRM, CORPORATION OR STATE AGENCY. This signature field can not be signed with a digital signature and the signee's name can not be typewritten into this space. This is a protected field. Please print and sign in ink.
+FieldFlags: 8388609
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].FULL_NAME[0]
+FieldNameAlt: 21. FULL NAME AND ADDRESS OF THE FIRM, CORPORATION, OR STATE AGENCY FILING AS CLAIMANT.
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].ADDRESS_WITNESS1[0]
+FieldNameAlt: 22B. ADDRESS OF WITNESS.
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].ADDRESS_WITNESS2[0]
+FieldNameAlt: 23B. ADDRESS OF WITNESS.
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].WITNESS_SIGNATURE1[0]
+FieldNameAlt: WITNESS TO SIGNATURE IF MADE BY &quot;X&quot;. NOTE - If claimant signed above using an &quot;X&quot;, signature must be witnessed by two persons to whom the person making the statement is personally known, and the signatures and addresses of such witnesses must be shown below. 22. A. SIGNATURE OF WITNESS (Sign in ink). This signature field can not be signed with a digital signature and the signee's name can not be typewritten into this space. This is a protected field. Please print the document and sign in ink.
+FieldFlags: 8388609
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].WITNESS_SIGNATURE2[0]
+FieldNameAlt: 23. A. SIGNATURE OF WITNESS (Sign in ink). This signature field can not be signed with a digital signature and the signee's name can not be typewritten into this space. This is a protected field. Please print the document and sign in ink.
+FieldFlags: 8388609
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].YES4[0]
+FieldNameAlt: 17B. WAS VETERAN BURIED IN A NATIONAL CEMETERY, OR ONE OWNED BY THE FEDERAL GOVERNMENT? YES.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].NO4[0]
+FieldNameAlt: 17B. NO.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].YES5[0]
+FieldNameAlt: 18. A. DID A FEDERAL / STATE GOVERNMENT OR THE VETERAN'S EMPLOYER CONTRIBUTE TO THE BURIAL? YES. If &quot;Yes,&quot; complete Item 18B.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].NO5[0]
+FieldNameAlt: 18. A. NO.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].AMOUNT[0]
+FieldNameAlt: 18B. AMOUNT OF GOVERNMENT OR EMPLOYER CONTRIBUTION.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].PLACE_OF_DEATH[1]
+FieldNameAlt: PART 4 - CLAIM FOR PLOT OR INTERMENT ALLOWANCE. 16. PLACE OF BURIAL OR LOCATION OF DECEASED VETERAN'S REMAINS (Specify).
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].YES4[1]
+FieldNameAlt: 17. A. DID YOU INCUR EXPENSES FOR THE VETERAN'S PLOT OR INTERMENT? YES.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].NO4[1]
+FieldNameAlt: 17. A. NO.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].YES4[2]
+FieldNameAlt: 17C. WAS THE VETERAN BURIED IN A STATE VETERANS CEMETERY? YES.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].NO4[2]
+FieldNameAlt: 17C. NO.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].YES4[3]
+FieldNameAlt: 15. A. DID YOU INCUR EXPENSES FOR THE VETERAN'S BURIAL? YES.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].NO4[3]
+FieldNameAlt: 15. A. NO.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].YES4[4]
+FieldNameAlt: 15B. ARE YOU SEEKING BURIAL BENEFITS FOR THE UNCLAIMED REMAINS OF A VETERAN? YES.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].NO4[4]
+FieldNameAlt: 15B. NO.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].YES2[0]
+FieldNameAlt: 14. IF YOU ARE THE DECEASED VETERAN'S SPOUSE, DID YOU PREVIOUSLY RECEIVE A V. A. BURIAL ALLOWANCE? YES.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].NO2[0]
+FieldNameAlt: 14. NO.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].Non-Service-ConnectedDeath[0]
+FieldNameAlt: PART 3 - CLAIM FOR BURIAL ALLOWANCE. 13. A. TYPE OF BURIAL ALLOWANCE REQUESTED (Check one). NON-SERVICE-CONNECTED DEATH.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].Service-ConnectedDeath[0]
+FieldNameAlt: 13. A. SERVICE-CONNECTED DEATH.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].UnclaimedRemains[0]
+FieldNameAlt: 13. A. V. A. MEDICAL CENTER DEATH (See instructions for definition.)
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].COST_OF_BURIAL[1]
+FieldNameAlt: 13. A. If V. A. Medical Center Death is checked, provide actual burial cost.
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].CheckBox1[1]
+FieldNameAlt: 13B. WHERE DID THE VETERAN'S DEATH OCCUR? (Check one). V. A. MEDICAL CENTER.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].CheckBox2[1]
+FieldNameAlt: 13B. STATE VETERANS HOME.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].CheckBox3[1]
+FieldNameAlt: 13B. NURSING HOME UNDER V. A. CONTRACT.
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: form1[0].#subform[37].CheckBox4[1]
+FieldNameAlt: 13B. OTHER (Specify).
+FieldFlags: 0
+FieldValue: Off
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].OTHER_SPECIFY[1]
+FieldNameAlt: 13B. SPECIFY OTHER.
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].VeteransSocialSecurityNumber_SecondTwoNumbers[1]
+FieldNameAlt: Veteran's Social Security Number. Enter Middle Two Digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].VeteransSocialSecurityNumber_FirstThreeNumbers[1]
+FieldNameAlt: Veteran's Social Security Number. Enter First Three Digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].#subform[37].VeteransSocialSecurityNumber_LastFourNumbers[1]
+FieldNameAlt: Veteran's Social Security Number. Enter Last Four Digits.
+FieldFlags: 25165824
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: 
+FieldName: form1[0]
+FieldFlags: 0
+FieldJustification: Left
